@@ -1,0 +1,7 @@
+# Don't track content of these folders
+node_modules/
+**/node_modules
+
+**/.DS_Store
+gulpfile.js
+package-lock.json
